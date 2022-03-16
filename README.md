@@ -1,2 +1,3 @@
-# code_challenges
-Code challenges done for fun or for interviews
+# CODE CHALLENGES
+Code challenges done for fun or for interviews.
+
